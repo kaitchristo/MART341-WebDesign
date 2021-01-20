@@ -1,1 +1,2 @@
-# MART341-WebDesign
+# Kaitlyn Christopher's MART341-WebDesign
+This whole lesson is really just the first of many steps into learning how this all works, but it was still challenging for me and I'm not sure if I did it right.  I feel proud of myself for going back and checking the examples when I felt lost.  At first I was confused because I thought that what the homework assignment entailed I had accidentally done in the wrong place during the course website tutorial.  I am not certain, but I think that I have done it correctly now.  
