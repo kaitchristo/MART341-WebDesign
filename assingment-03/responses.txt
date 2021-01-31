@@ -1,3 +1,7 @@
 (reddit)[https://www.reddit.com]
 (facebook)[https://www.facebook.com/]
 (instagram)[https://www.instagram.com/?hl=en]
+
+2. It seems like an a DNS is used to show where to take an IP address
+3.A cookie remembers an individual user.
+4.A protocol, a domain, and a path, make up an URL.
