@@ -1,0 +1,3 @@
+1. Learning HTML has been a lot of fun.  Honestly, the only thing I had known about HTML came from back in the day when I would format my background on MySpace.  All of it was new to me! Learning about divs has helped add a lot more complexity to my html pages and it looks a lot better!
+2. I am excited to learn CSS because I know that it can make a webpage look a lot more modern!
+3. Some of my challenges have been figuring out how to make github  work properly for me.  It has been the most confusing part because all of the words like 'issue' and 'commit' etc. seemed very weird to me.  Now it is all working for me and the jargon isn't as strange.  
