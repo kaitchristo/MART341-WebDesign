@@ -1,0 +1,52 @@
+div{
+    text-align: left;
+    line-height: 1.45em;
+    font-family: Thasadith, sans-serif;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+h1, h2, h5{
+    text-align: center;
+    font-family: Thasadith, sans-serif;
+
+}
+.poem-body{
+    color: #black;
+    font-size: 20px;
+    font-style: italic;
+    font-weight:700;
+}
+
+.poem-body::first-line{
+    font-size: 25px;
+}
+.poem-citation{
+    font-size: 16px;
+}
+
+.veil-magazine{
+  color: #black;
+  font-size: 15px;
+  font-style:italic;
+  font-weight: bold;
+}
+
+#author-info{
+    text-decoration: none;
+    font-family: Thasadith, sans-serif;
+}
+#author-info:hover{
+    font-family:  Thasadith, sans-serif;
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+table{
+    border: 1px solid black;
+    font-family:  Thasadith, sans-serif;
+    font-weight: 700;
+}
+
+p{
+    font-family:  Thasadith, sans-serif;
+}
