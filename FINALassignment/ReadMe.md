@@ -1,0 +1,6 @@
+1Q. Did you learn anything new about web development (i.e., using GitHub, version control, repositories)?
+1A. Everything to me this semester was new about web development.  I was so scared the first week because nothing made sense to me, and I knew I needed to graduate this semester, and I thought this class would be way too out of my wheelhouse.  Overall, I feel like I learned a lot.  This week I learned how easy it is to duplicate repositories on Atom in order to easily have a basis for what you need in GitHub.  
+2Q. Did you learn anything new about web design (i.e., using media, color, fonts)?
+2A.  This week I finally was able to fix my navigation, by changing it from fixed to scrolling.  I also learned how to pick and mix colors.  
+3Q. Free Response: Discuss any challenges you had and what you did to overcome them.
+3A. This week was really hard because I am in 15 credits and so paranoid about making sure I graduate because I am back in school for this first time in a decade.  I feel happy about the work I was able to do.  I do plan on learning more about web design in my free time, and I am thankful that I took a class outside of my comfort zone of the humanities.  My major challenge was dealing with things not looking the way I want, but I have been able to go back to past assignments which worked well and see how I did the work then.  
